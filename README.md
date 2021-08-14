@@ -15,30 +15,8 @@
 
 
 
-#### 页面演示
-------------------------
-
-多个标注点
-![主页](images/zs/1.png "多个标注点")
-
-多个标注点故障
-![多个标注点](/images/zs/1.png "多个标注点")  
-![多个标注点故障](./images/zs/2.png "多个标注点故障")
-![多个标注点正常](./images/zs/3.png "多个标注点正常")
-
-拾取坐标
-![拾取坐标](./images/zs/4.png "拾取坐标")
-
-搜索标注点
-![搜索标注点](./images/zs/5.png "搜索标注点")
-
-运动轨迹
-![运动轨迹](./images/zs/6.png "运动轨迹")
-
-坐标拾取
-![坐标拾取](./images/zs/7.png "坐标拾取")
-
 #### 项目源码地址：
 ------------------------
 
-码云地址：https://gitee.com/ldhblog/Bmap.git
+码云地址：https://gitee.com/ldhblog/Bmap.git  已经不可访问
+参考地址：https://github.com/nmgwap/Bmap
